@@ -2,7 +2,7 @@
 
   Atualmente sou Scrum Master, formado em Gestão de projetos.
   
-  Sou desenvolvedor frontend e no momento estou aprendendo mais sobre o Angular e seus recursos, Javascript, Typescript.
+  No momento estou aprendendo mais sobre o Angular e seus recursos, javascript, typescript.
 <br>
 
 ##
@@ -19,9 +19,6 @@
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="boodstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   <img align="center" alt="Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="postgress" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img align="center" alt="Oracle" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align="center" alt="Progress4gl" height="40" width="50" src=https://pics.freeicons.io/uploads/icons/png/14885453661551942137-512.png />
 
 </div>
